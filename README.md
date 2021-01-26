@@ -18,7 +18,7 @@ Fasi implementate :
 
 Il progetto è stato realizzato da:
 
-- Marchi Mattia 817587 @M-Marchi
-- Stoppa Miguel 820506 @mig1214
-- Tomasoni Lorenzo 829906 @lTomasoni
+- Marchi Mattia @M-Marchi
+- Stoppa Miguel @mig1214
+- Tomasoni Lorenzo @lTomasoni
 
