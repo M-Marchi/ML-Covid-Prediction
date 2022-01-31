@@ -1,7 +1,7 @@
 #### Master's Degree in Computer Science @Unimib
 
 
-# 2020_MachineLearning_Project
+# 2020 MachineLearning Course: Final Project
 
 Il progetto consiste nel applicare alcuni dei principali algoritmi di Machine Learning per effettuare una predizione, sulla base di alcuni valori dell'esame del sangue, se il paziente sia positivo o meno a Covid-19
 
